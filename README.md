@@ -7,7 +7,7 @@
 ### 執行指令
 
 ```shell
-$ git clone https://github.com/max8633/HW_UpdateUSDC.git
-$ cd HW_UpdateUSDC
+$ git clone https://github.com/max8633/RugPull.git
+$ cd RugPull
 $ forge test
 ```
